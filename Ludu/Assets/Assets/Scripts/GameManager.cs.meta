@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e547b725135e2d46b2bdf399ec6ccbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dieManager: {instanceID: 0}
+  - boardManager: {instanceID: 0}
+  - scriptManager: {instanceID: 0}
+  - floatingText: {fileID: 6511865076174650089, guid: 16f76e338774be84c8c127ed0f20681c, type: 3}
+  - kickOutEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

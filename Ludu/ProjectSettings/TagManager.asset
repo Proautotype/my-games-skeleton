@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cell
+  - gSeed4Home
+  - gSeed2Home
+  - bSeed2Home
+  - tray
+  - gSeed3Home
+  - yHome
+  - bSeed3Home
+  - bSeed1Home
+  - gSeed1Home
+  - playersEdit
+  - gHome
+  - bSeed4Home
+  - bHome
+  - rHome
+  - bseed
+  - rseed
+  - diceSide
+  - dice
+  - yseed
+  - gseed
+  - Perspective Camera
+  - rolledNumber
+  - FxTemporaire
+  - NetworkPlayersPanel
+  - inputPlayerName
+  - changeUserNameBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - cell
+  - seed
+  - dice
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
